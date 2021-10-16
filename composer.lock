@@ -3234,12 +3234,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sagor110090/livewire-crud.git",
-                "reference": "282faf426ee0bdc98a76c81d72f43c6726f9a593"
+                "reference": "767457ba746ab5bfd255cf112dc56058e200185e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sagor110090/livewire-crud/zipball/282faf426ee0bdc98a76c81d72f43c6726f9a593",
-                "reference": "282faf426ee0bdc98a76c81d72f43c6726f9a593",
+                "url": "https://api.github.com/repos/sagor110090/livewire-crud/zipball/767457ba746ab5bfd255cf112dc56058e200185e",
+                "reference": "767457ba746ab5bfd255cf112dc56058e200185e",
                 "shasum": ""
             },
             "require": {
@@ -3286,7 +3286,7 @@
                 "issues": "https://github.com/sagor110090/livewire-crud/issues",
                 "source": "https://github.com/sagor110090/livewire-crud/tree/main"
             },
-            "time": "2021-10-16T10:02:49+00:00"
+            "time": "2021-10-16T18:53:35+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
