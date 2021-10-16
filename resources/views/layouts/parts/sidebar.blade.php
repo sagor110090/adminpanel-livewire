@@ -21,6 +21,9 @@
 
 <!--Nav Bar Hooks - Do not delete!!-->
 						<li class="nav-item">
+                            <a href="{{ url('/admin/students') }}" class="nav-link"><i data-feather="sidebar" class="nav-icon icon-xs me-2"></i> Students</a>
+                        </li>
+						<li class="nav-item">
                             <a href="{{ url('/admin/teachers') }}" class="nav-link"><i data-feather="sidebar" class="nav-icon icon-xs me-2"></i> Teachers</a>
                         </li>
 
